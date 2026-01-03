@@ -36,6 +36,7 @@ Adjust schema in rename_files.py first before you execute the script (as describ
 - Python 3.10 or higher.
 
 git clone https://github.com/dafiwi/rename_files.git
+
 cd path/to/script-directory
 
 chmod +x rename_files.py
