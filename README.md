@@ -51,4 +51,4 @@ OR
 python rename_files.py
 
 ## License
-This project is licensed under the MIT License. See [LICENSE](LICENSE). Copyright (c) dafiwi/2026(https://github.com/dafiwi/rename_files).
+This project is licensed under the MIT License. See [LICENSE](LICENSE). Copyright (c) dafiwi/2026 (https://github.com/dafiwi/rename_files).
